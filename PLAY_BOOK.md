@@ -52,7 +52,7 @@
 
 ### Codex에 입력
 
-> github-prompts/ANALYZE.md를 읽고 시험 README와 모든 제공 자료를 분석해 줘. 필수 요구사항, 제약조건, 데이터 구조, 예외조건, 가능한 해결 방식과 미확인 사항을 정리해. DECISIONS.md와 PROGRESS.md는 현재 작업 폴더에 새로 작성하고, 분석 결과를 보고한 뒤 코딩하지 말고 멈춰.
+> github-prompts/ANALYZE.md를 읽고 시험 README와 모든 제공 자료를 분석해 줘. 필수 요구사항, 제약조건, 데이터 구조, 예외조건, 가능한 해결 방식과 미확인 사항을 정리해. DECISION.md와 PROGRESS.md는 현재 작업 폴더에 새로 작성하고, 분석 결과를 보고한 뒤 코딩하지 말고 멈춰.
 
 ### 반드시 확인할 사항
 
